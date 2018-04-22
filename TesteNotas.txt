@@ -1,0 +1,4 @@
+Tempo médio de execução - 2.4 segundos
+
+Melhorias- Para executar o programa em menos de 2 segundos, é possível utilizar algum método de busca mais rápido
+como QuickSearch
